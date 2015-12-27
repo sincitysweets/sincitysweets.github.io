@@ -474,3 +474,14 @@ img::-moz-selection {
 body {
     webkit-tap-highlight-color: #222;
 }
+
+#products .product-caption {
+    margin: 0 auto;
+    text-align: center;
+    padding 25px;
+    margin-bottom: 30px;
+}
+
+#about img {
+    opacity: 0.9;
+}
